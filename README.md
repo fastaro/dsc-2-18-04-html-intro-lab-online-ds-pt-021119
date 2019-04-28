@@ -1,4 +1,5 @@
-
+<!DOCTTYPE html>
+<html>
 # HTML Intro - Lab
 
 ## Introduction
@@ -64,3 +65,4 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+</html>
