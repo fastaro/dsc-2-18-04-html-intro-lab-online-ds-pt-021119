@@ -4,6 +4,9 @@
 
 ## Introduction
   <head>
+  <title>
+  HTML LAB 
+  </title>
 It's time to practice making a well formated HTML document!
 
 ## Objectives
